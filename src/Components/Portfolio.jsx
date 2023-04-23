@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "The Golden Promise by the Gentle Giant…",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Since I was 8 years old, I ‘ve been obsessed to watch the Olympics with my Amma and Thaththa.",
+    url: "https://sathira98.medium.com/the-golden-promise-by-the-gentle-giant-e7c8a6bcc86f",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Building Centralized Log Management System with Graylog (Part-1)",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Have you ever spent hours of debugging to figure out which component or feature in your application went wrong or broken?",
+    url: "https://sathira98.medium.com/building-centralized-log-management-system-with-graylog-c99029420dbc",
   },
   {
     title: "My Resume Site",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Created for fun during my internship at Mad Mobile Company",
+    url: "https://sathira443.github.io/PortfolioProject2/",
   },
   {
     title: "GitHub Codespaces and github.dev",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Check here to see my work I've done during my uni career",
+    url: "https://github.com/Sathira443?tab=repositories",
   },
 ];
 

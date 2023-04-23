@@ -18,25 +18,25 @@ import React from "react";
  */
 import image from "../images/keyboard.jpg";
 
-const imageAltText = "purple and blue abstract background";
+const imageAltText = "Just a keyboard";
 
 /**
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a Computer Science and Engineering studying at University of Moratuwa, Sri Lanka. I enjoy creating Web and Mobile in creative ways.";
+  "I'm a Computer Science and Engineering undergraduate studying at University of Moratuwa, Sri Lanka. I enjoy creating Web and Mobile in creative ways.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Project Planning",
+  "Agile Working",
+  "Web application development",
+  "Dev Testing",
+  "Team Player",
+  "Mobile application development",
 ];
 
 /**
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "I am an enthusiastic individual with good analytical and interpersonal skills. Always seeking to gain knowledge and experience by applying the theories into practice. Special interest in developing Web and Mobile applications.";
 
 const About = () => {
   return (
