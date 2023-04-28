@@ -33,7 +33,7 @@ const projectList = [
   {
     title: "The Golden Promise by the Gentle Giant…",
     description:
-      "Since I was 8 years old, I ‘ve been obsessed to watch the Olympics with my Amma and Thaththa.",
+      "Since I was 8 years old, I've been obsessed to watch the Olympics with my Amma and Thaththa.",
     url: "https://sathira98.medium.com/the-golden-promise-by-the-gentle-giant-e7c8a6bcc86f",
   },
   {
@@ -44,14 +44,12 @@ const projectList = [
   },
   {
     title: "My Resume Site",
-    description:
-      "Created for fun during my internship at Mad Mobile Company",
+    description: "Created for fun during my internship at Mad Mobile Company",
     url: "https://sathira443.github.io/PortfolioProject2/",
   },
   {
     title: "GitHub Codespaces and github.dev",
-    description:
-      "Check here to see my work I've done during my uni career",
+    description: "Check here to see my work I've done during my uni career",
     url: "https://github.com/Sathira443?tab=repositories",
   },
 ];
